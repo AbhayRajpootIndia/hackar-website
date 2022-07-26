@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/hackar-website/static/css/main.a69dc189.css",
+    "main.js": "/hackar-website/static/js/main.bb36dd9d.js",
+    "static/js/787.98498dfe.chunk.js": "/hackar-website/static/js/787.98498dfe.chunk.js",
+    "static/media/intro-1.png": "/hackar-website/static/media/intro-1.3d69f3522c99740651e6.png",
+    "static/media/logo.svg": "/hackar-website/static/media/logo.1dae4728d1d7d77070e6.svg",
+    "index.html": "/hackar-website/index.html",
+    "main.a69dc189.css.map": "/hackar-website/static/css/main.a69dc189.css.map",
+    "main.bb36dd9d.js.map": "/hackar-website/static/js/main.bb36dd9d.js.map",
+    "787.98498dfe.chunk.js.map": "/hackar-website/static/js/787.98498dfe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a69dc189.css",
+    "static/js/main.bb36dd9d.js"
+  ]
+}
