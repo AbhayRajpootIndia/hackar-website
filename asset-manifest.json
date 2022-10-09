@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/hackar-website/static/css/main.dec9757b.css",
-    "main.js": "/hackar-website/static/js/main.374d8080.js",
+    "main.css": "/hackar-website/static/css/main.8db1cf14.css",
+    "main.js": "/hackar-website/static/js/main.fd5e9140.js",
     "static/js/787.98498dfe.chunk.js": "/hackar-website/static/js/787.98498dfe.chunk.js",
+    "static/media/augmented img 2.jpg": "/hackar-website/static/media/augmented img 2.f231b2e80327e7dca41b.jpg",
     "static/media/intro-1.png": "/hackar-website/static/media/intro-1.3d69f3522c99740651e6.png",
-    "static/media/logo.svg": "/hackar-website/static/media/logo.1dae4728d1d7d77070e6.svg",
+    "static/media/cyber img1.jpg": "/hackar-website/static/media/cyber img1.47ed79e5edfeb1f31a0a.jpg",
+    "static/media/augmented img 1.jpg": "/hackar-website/static/media/augmented img 1.2cb50f1525c5352f7fe5.jpg",
+    "static/media/cyber img2.jpg": "/hackar-website/static/media/cyber img2.d28f7cdbee60131eade8.jpg",
+    "static/media/augmented img 3.jpg": "/hackar-website/static/media/augmented img 3.06b5cc6aee22cccf9b03.jpg",
     "index.html": "/hackar-website/index.html",
-    "main.dec9757b.css.map": "/hackar-website/static/css/main.dec9757b.css.map",
-    "main.374d8080.js.map": "/hackar-website/static/js/main.374d8080.js.map",
+    "main.8db1cf14.css.map": "/hackar-website/static/css/main.8db1cf14.css.map",
+    "main.fd5e9140.js.map": "/hackar-website/static/js/main.fd5e9140.js.map",
     "787.98498dfe.chunk.js.map": "/hackar-website/static/js/787.98498dfe.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dec9757b.css",
-    "static/js/main.374d8080.js"
+    "static/css/main.8db1cf14.css",
+    "static/js/main.fd5e9140.js"
   ]
 }
