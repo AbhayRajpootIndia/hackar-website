@@ -8,6 +8,7 @@ import About from "./pages/About"
 
 
 function App(props) {
+  
   const [width, setWidth] = React.useState(window.innerWidth);
 
     function handleWindowSizeChange() {
