@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# HackAR Sample Website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a simple React app which contains a website I made as an sample for the start-up HackAR Cove.
 
 ## Available Scripts
 
