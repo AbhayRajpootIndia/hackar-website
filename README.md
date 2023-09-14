@@ -1,70 +1,84 @@
-# HackAR Sample Website
+# Responsive Website made with ReactJS
 
-This is a simple React app which contains a website I made as an sample for the start-up HackAR Cove.
+![Responsive Website](website-screenshot.png)
 
-## Available Scripts
+This Responsive Website is a versatile web application built using ReactJS, designed to provide information about services offered and make it easy for visitors to get in touch. Whether you're accessing it from a mobile device or desktop, this website is optimized to provide a seamless browsing experience.
 
-In the project directory, you can run:
+## Pages
 
-### `npm start`
+### 1. Home Page
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- A welcoming landing page introducing the website.
+- Provides a brief overview of the services offered or key features.
+- Encourages visitors to explore further.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### 2. Services Page
 
-### `npm test`
+- Detailed information about the services or products offered.
+- Includes descriptions, pricing, and any relevant images or details.
+- Allows visitors to understand what's available.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 3. Contact Page
 
-### `npm run build`
+- Provides contact information for getting in touch.
+- Offers multiple ways to contact, such as phone, email, or social media links.
+- Encourages visitors to reach out for inquiries or support.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 4. Contact Page (with a Form)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- An additional contact page featuring a contact form.
+- Visitors can fill out the form to send emails directly to you.
+- A user-friendly way to facilitate communication.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Technologies Used
 
-### `npm run eject`
+- **HTML, CSS, JavaScript**: The core technologies for building web pages and enhancing user experience.
+- **ReactJS**: A popular JavaScript library for building user interfaces.
+- **React Router**: A routing library for creating single-page applications with React.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## How to Use
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Navigate through the website using the navigation menu or by clicking on page links.
+- Explore the Services page to learn more about the offerings.
+- Visit the Contact page to access contact information or use the contact form.
+- The website automatically adjusts to different screen sizes, providing a responsive experience on both mobile and desktop devices.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Installation
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Clone the repository:
 
-## Learn More
+   ```sh
+   git clone https://github.com/your-username/responsive-website.git
+   cd responsive-website
+   ```
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+2. Install dependencies:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+   ```sh
+   npm install
+   ```
 
-### Code Splitting
+3. Start the development server:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+   ```sh
+   npm start
+   ```
 
-### Analyzing the Bundle Size
+4. Open your web browser and go to `http://localhost:3000` to view the website locally.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Contribute
 
-### Making a Progressive Web App
+Contributions are welcome! If you'd like to improve this Responsive Website or add new features, please follow these steps:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix: `git checkout -b feature/new-feature`.
+3. Make your changes and test thoroughly.
+4. Commit your changes: `git commit -m "Add new feature"`.
+5. Push to your fork: `git push origin feature/new-feature`.
+6. Create a pull request, explaining the changes you made and why they should be merged.
 
-### Advanced Configuration
+## License
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+This Responsive Website is open-source and available under the [MIT License](LICENSE).
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+I hope you enjoy exploring this Responsive Website! If you have any questions or feedback, please don't hesitate to get in touch.
